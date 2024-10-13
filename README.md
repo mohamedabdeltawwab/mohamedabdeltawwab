@@ -62,8 +62,8 @@
 
 ### 🌐 Language Proficiency
 
-- 🇸🇦 Arabic: Native
-- 🇬🇧 English: Good
+- Arabic: Native
+-  English: Good
 
 ---
 
