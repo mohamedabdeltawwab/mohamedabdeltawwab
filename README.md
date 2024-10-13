@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-  <h1 align="center">Hi 👋, I'm Mohamed Abdel Tawwab</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Abdel Tawwab</h1>
 <h3 align="center">Aspiring Data Analyst and Data Scientist</h3>
 
 <p align="center">
@@ -34,6 +33,12 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -62,8 +67,8 @@
 
 ### 🌐 Language Proficiency
 
-- Arabic: Native
--  English: Good
+- 🇸🇦 Arabic: Native
+- 🇬🇧 English: Good
 
 ---
 
@@ -90,3 +95,5 @@
 </p>
 
 ---
+ 
+
