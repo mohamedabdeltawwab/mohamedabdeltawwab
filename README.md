@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-   <h1 align="center">Hi 👋, I'm Mohamed Abdel Tawwab</h1>
+  <h1 align="center">Hi 👋, I'm Mohamed Abdel Tawwab</h1>
 <h3 align="center">Aspiring Data Analyst and Data Scientist</h3>
 
 <p align="center">
@@ -57,6 +57,13 @@
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 🌐 Language Proficiency
+
+- 🇸🇦 Arabic: Native
+- 🇬🇧 English: Good
 
 ---
 
