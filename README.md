@@ -1,5 +1,6 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Mohamed Abdel Tawwab</h1>
+
+   <h1 align="center">Hi 👋, I'm Mohamed Abdel Tawwab</h1>
 <h3 align="center">Aspiring Data Analyst and Data Scientist</h3>
 
 <p align="center">
@@ -53,4 +54,32 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+<p align="left">
+  <a href="mailto:mohamed.abdel.tawwab@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
